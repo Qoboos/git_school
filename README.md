@@ -2,3 +2,6 @@
 
 
 ucze sie GH
+
+
+Wpisuje w VS
